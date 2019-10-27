@@ -9,3 +9,9 @@ B4: Viết chương trình xuất ra các số nguyên tố nhỏ hơn N, Có c�
 B5: Viết chương trình tính tổng m số chính phương đầu tiên
 	a. Hàm kiểm tra 1 số là số chính phương
 	b. Hàm tính tổng m số chính phương đầu tiên.
+B6: Dùng con trỏ viết hàm hoán vị hai số nguyên a,b
+B7: Viết hàm kiểm tra N có đối xứng không
+B8: viết chương trình tìm ước số chung lớn nhất và bội số chung nhỏ nhất
+	a. Hàm nhập a và b
+	b. Hàm tìm USCLN của a và b
+	c. Hàm tìm BSCNN của a và b
