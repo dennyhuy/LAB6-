@@ -1,0 +1,11 @@
+---------Bùi Quốc Huy-------------
+---------    Hàm     -------------
+B1: Viết chương trình tính diện tích và chu vi hình tròn
+B2: Viết chương trìn in ra giai thừa của một số nguyên
+B3: Viết hàm kiểm tra một số nguyên có phải số nguyên tố hay không
+B4: Viết chương trình xuất ra các số nguyên tố nhỏ hơn N, Có các hàm: 
+	a. Hàm kiểm tra 1 số là số nguyên tố
+	b. Hàm xuất các số nguyên tố nhỏ hơn N
+B5: Viết chương trình tính tổng m số chính phương đầu tiên
+	a. Hàm kiểm tra 1 số là số chính phương
+	b. Hàm tính tổng m số chính phương đầu tiên.
