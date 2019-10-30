@@ -1,23 +1,31 @@
 #include <stdio.h> 
-// Hàm tính dien tích  
-int tinhDienTich(int A, int B) 
-{	
-	return A*B;
-}
-// Hàm tính chu vi 
-int tinhChuVi(int A, int B)
+int dienTich(float r)
 {
-	return (A+B)*2;
+	float S;
+	S = r*r * 3.14;
+	return S;
+}
+int dienTich2(float d)
+{
+	float A;
+	return A = (d*d/4) * 3.14;
+}
+int chuVi(float r)
+{
+	float C;
+	return C = r * 2 * 3.14;
+}
+int chuVi2(float d)
+{
+	float C;
+	return C = d * 3.14;
 }
 int main() 
-{	
-	//Khai báo A và B 
-	int A,B;
-	printf(" Tinh ");
-	printf("\n Nhap chieu dai= "); scanf("%d",&A);
-	printf(" Nhap chieu rong= "); scanf("%d", &B);
-	// Áp dung hàm vào tính dien tich 
-	printf(" Dien tich hinh chu nhat la: %d",tinhDienTich(A,B));
-	// Áp dung hàm vào tính chu vi  
-	printf("\n Chu vi hinh chu nhat la: %d",tinhChuVi(A,B));
+{
+	float r;
+	printf("CHUONG TRINH TINH CHU VI VA DIEN TICH HINH TRON");
+	printf("\n Nhap vao ban kinh: ");
+	scanf("%f",&r);
+	printf("Dien tich hinh tron la: %d",dienTich(r));
+	printf("\n Chu vi hinh tron la: %d",chuVi(r));
 }
